@@ -1,0 +1,23 @@
+footer {
+  background-color: black;
+  color: blanchedalmond;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+#marketSummary {
+  margin: 10px 0;
+  font-size: 2.3rem;
+  padding: 2px;
+  text-align: center;
+  background-color: #292b2c;
+  color: white;
+}
+
+#marketNew {
+  font-size: 2.3rem;
+  padding: 2px;
+  text-align: center;
+  background-color: #292b2c;
+  color: white;
+}
